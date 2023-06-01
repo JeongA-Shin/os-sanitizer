@@ -13,3 +13,4 @@ KASAN은 리눅스 커널을 위한 동적 런타임 메모리 오류 탐지기�
 KCSAN은 리눅스 커널을 위한 동적 데이터 레이스 탐지기이다.  
 커널 코드의 동시 실행에서 발생하는 잠재적인 데이터 경합 조건을 식별한다.  
 
+프로젝트 중 KASAN 및 KCSAN에 대한 내용은 Google에서 제공하는 <a href="https://github.com/google/sanitizers">공식 문서</a> 를 참조하였다.
