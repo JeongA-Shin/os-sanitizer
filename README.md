@@ -1,6 +1,7 @@
 # Sanitizer-Enabled Kernel Compilation Project
 이 프로젝트는 Ubuntu와 FreeBSD 운영 체제의 여러 버전들에 KASAN(Kernel Address Sanitizer)과 KCSAN(Kernel Concurrency Sanitizer)를 적용하여 컴파일하는 데 초점을 맞춘다.  
-즉, 해당 프로젝트의 최종 목표는 메모리 버그와 동시성 문제를 감지하여 커널의 보안과 신뢰성을 향상시키는 것이다.
+즉, 해당 프로젝트의 최종 목표는 메모리 버그와 동시성 문제를 감지하여 커널의 보안과 신뢰성을 향상시키는 것이다.  
+해당 프로젝트의 과정들은 <a href="https://quill-bed-0bb.notion.site/5e5ad04a06384955a6aacb5af32a2c05?pvs=4">노션</a>을 통해 기록하였다.
 
 ## sanitizer란?
 Sanitizer는 소프트웨어의 다양한 유형의 버그와 보안 취약성을 탐지하고 방지하기 위해 설계된 강력한 툴이다.   
